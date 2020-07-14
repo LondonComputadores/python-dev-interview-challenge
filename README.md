@@ -1,7 +1,7 @@
-# serasa-challenge-repo
+# python-dev-interview-challenge
 This is a code challenge from Serasa and its main stack is Python
 
-                        SERASA CHALLENGE
+                        Python Dev Interview CHALLENGE
 
 Nesse projeto criamos um CRUD de microserviços sendo um de cadastro de clientes e o outro de serviço de pedidos para comunicarem entre si para troca de informações.
 
@@ -15,7 +15,7 @@ O projeto tem como stack principal as seguintes tecnologias:
 
 Para o planejamento e execução das etapas foi utilizado o quadro Kanban do Trello como simulação de ambiente ágil, mantendo a organização e progresso do projeto.
 
-- https://trello.com/b/B1GOF8cd/serasa-challenge
+- https://trello.com/b/B1GOF8cd/project
 
 Relação de endpoints:
 
